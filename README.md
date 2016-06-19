@@ -1,6 +1,6 @@
 # MiniMagick cliping images with mask file
 
-[![Gem Version](https://badge.fury.io/rb/minimagick-clip.svg)](http://badge.fury.io/rb/minimagick-clip)
+[![Gem Version](https://badge.fury.io/rb/mini_magick_clip.svg)](http://badge.fury.io/rb/mini_magick_clip)
 
 Use mask file to clip images with minimagick.
 
